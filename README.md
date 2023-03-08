@@ -5,7 +5,7 @@
 
 - 📄 GigHub Pages [https://r-kogure.github.io/gh-pages/](https://r-kogure.github.io/gh-pages/)
 - 
-- 📄 about My Career [https://r-kogure.github.io/gh-pages/](https://r-kogure.github.io/gh-pages/)
+- 📄 about My Career [https://r-kogure.github.io/gh-pages/](https://www.wantedly.com/id/Kog_Ryo)
 
 
 <h3 align="left">Languages and Tools:</h3>
