@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **ML, CV**
 
 - 📄 GigHub Pages [https://r-kogure.github.io/gh-pages/](https://r-kogure.github.io/gh-pages/)
-- 
+
 - 📄 about My Career [https://r-kogure.github.io/gh-pages/](https://www.wantedly.com/id/Kog_Ryo)
 
 
