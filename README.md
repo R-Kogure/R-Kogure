@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ryo Kogure</h1>
-<h3 align="center">Student at The Open University of Japan</h3>
 
 - I’m currently learning **ML, CV**
 
